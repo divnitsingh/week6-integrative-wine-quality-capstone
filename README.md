@@ -224,14 +224,6 @@ The notebook presents the complete workflow in narrative form and generates the 
 - The quality score is an expert-derived target, but the project does not treat it as a perfect ground truth.
 - Real production use would require external validation, monitoring, and domain review.
 
-## GitHub upload
-
-Suggested repository:
-
-`week6-integrative-wine-quality-capstone`
-
-Upload the **contents of the extracted project folder** to GitHub, then use the repository URL in the internship certificate submission field.
-
 ## Attribution
 
 See `DATA_ATTRIBUTION.md`.
